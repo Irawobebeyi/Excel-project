@@ -1,3 +1,9 @@
+<img width="1154" alt="SubcategoryStats" src="https://user-images.githubusercontent.com/107362585/193929587-765656b8-2af6-4a7d-a542-b2d81409cfa5.png">
+
+
+<img width="953" alt="CategoryStats" src="https://user-images.githubusercontent.com/107362585/193929624-261a84d2-5bc2-4311-9096-205f2939135c.png">
+
+
 # Excel-project
 Crowdfunding platforms like Kickstarter and Indiegogo have been growing in success and popularity since they began in the late aughts. Everyone from indie creators to famous celebrities have utilized crowdfunding to launch new products and generate buzz, but not every project has found success.
 Getting funded on a crowdfunding website requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. For this week's homework, you will organize and analyze a database of 1,000 generated sample projects in order to uncover any hidden trends.
